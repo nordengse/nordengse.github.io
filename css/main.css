@@ -404,7 +404,7 @@ pre {
   font-size: 12px; }
 
 .responsive {
-  font-size: calc(25px + (45 - 25 ) * ((100vw - 300px) / (1600 - 300))); }
+  font-size: calc(23px + (45 - 23 ) * ((100vw - 300px) / (1600 - 300))); }
 
 /**
  * Syntax highlighting styles
