@@ -403,6 +403,9 @@ pre {
   vertical-align: middle;
   font-size: 12px; }
 
+.responsive {
+  font-size: calc(25px + (45 - 25 ) * ((100vw - 300px) / (1600 - 300))); }
+
 /**
  * Syntax highlighting styles
  */
