@@ -184,7 +184,6 @@ pre {
       right: 10px;
       text-align: right; }
       .site-nav:hover .trigger {
-        display: block;
         padding-bottom: 5px; }
       .site-nav .page-link {
         display: line; } }
