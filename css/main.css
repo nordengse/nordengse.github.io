@@ -406,6 +406,18 @@ pre {
 .responsive {
   font-size: calc(25px + (45 - 25 ) * ((100vw - 300px) / (1600 - 300))); }
 
+.en:lang(en), .es:lang(es) {
+  font-weight: bold; }
+
+.en:lang(en) {
+  color: #5871dd; }
+
+.es:lang(es) {
+  color: #d14f4f; }
+
+.trigger {
+  display: inline; }
+
 /**
  * Syntax highlighting styles
  */
